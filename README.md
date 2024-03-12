@@ -19,5 +19,5 @@ Trabajo con los siguientes lenguajes los cuales ajustare al nivel que mantengo(O
 |--------|--------|-------|------------|
 |C/C++|JavaScript|HTML|PHP|
 |Java||Markdown|CSS|
-|||XML||
+|||XML|SQL|
 |||JSON||
